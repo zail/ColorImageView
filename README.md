@@ -2,6 +2,8 @@
 Easily color an Android ImageView before Android 5.0 
 (The library will use the standard Tint method after 5.0)
 
+![alt tag](art/img.png)
+
 ## Installation
 
 ColorImageView is available via jitpack
